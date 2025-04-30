@@ -1,0 +1,38 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+
+# Diretórios temporários
+tmp/
+temp/
+.cache/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Autenticação do WhatsApp (gerado pelo whatsapp-web.js com LocalAuth)
+.session/
+.wwebjs_auth/
+.wwebjs_cache/
+.wwebjs_session/
+
+# Arquivos de configuração do ambiente
+.env
+
+# Base de dados local (opcional, se for gerado localmente)
+boletos.json
+
+# VSCode
+.vscode/
+
+# Windows
+ehthumbs.db
+Icon?
+desktop.ini
