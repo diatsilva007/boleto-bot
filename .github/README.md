@@ -1,6 +1,6 @@
 # 🤖 Boleto Bot – Lembretes de Pagamento via WhatsApp
 
-Este projeto é um bot de WhatsApp que envia **lembretes automáticos de vencimento de boletos** diretamente para seu número. Ideal para quem quer **evitar atrasos em contas pessoais ou organizar cobranças recorrentes**.
+> Este projeto é um bot de WhatsApp que envia **lembretes automáticos de vencimento de boletos** diretamente para seu número. Ideal para quem quer **evitar atrasos em contas pessoais ou organizar cobranças recorrentes**.
 
 ## 📦 Funcionalidades
 
