@@ -4,7 +4,7 @@
 
 ## 📦 Funcionalidades
 
-- 🔁 Agendamento automático de verificação de boletos (a cada minuto).
+- 🔁 Agendamento automático de verificação de boletos (todo dia às 9h a.m).
 - 🔔 Lembrete 3 dias antes do vencimento.
 - ⚠️ Alerta no dia do vencimento.
 - 💬 Envio automático de mensagens pelo WhatsApp.
