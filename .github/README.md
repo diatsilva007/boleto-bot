@@ -63,6 +63,13 @@ node index.js
 ```
 > Um QR Code aparecerá no terminal. Escaneie com o seu WhatsApp para autenticar o bot.
 
+### 6. Caso dê erro ao tentar reiniciar o bot, rode o seguinte comando:
+
+```bash
+rmdir /s /q .wwebjs_auth
+```
+> Se o QRCode não reinicar rode o comando acima e em seguida inicie o bot novamente.
+
 ## 💡 Observações importantes
 
 - O bot não envia mensagens para o próprio número que escaneou o QR code. Use outro número como destinatário.
