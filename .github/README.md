@@ -28,7 +28,7 @@
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/boleto-bot.git
+git clone https://github.com/diatsilva007/boleto-bot.git
 ```
 
 ### 2. Entre na pasta do projeto
